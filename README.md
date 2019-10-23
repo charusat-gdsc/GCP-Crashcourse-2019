@@ -32,7 +32,7 @@ Application Development, Data &amp; Machine Learning.
 
 ### Process:
 \- Visit [charusat-gdsc.github.io/](https://charusat-gdsc.github.io/)<br>
-\- Choose the track you like and complete all the quests<br>
+\- Choose and enroll for the track you like and complete the quests<br>
 \- Fill in the reward [form](http://bit.ly/charusatgcpcc19-report) asked at the end of the page once you complete any of the
 track before the given deadline(31st October 2019)<br>
 
