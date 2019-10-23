@@ -8,7 +8,7 @@ you all. Here is all the details:
 Learning Path&#39;s for all. With #GCPCrashCourse you get to learn dedicated topics in
 Application Development, Data &amp; Machine Learning.
 
-### Different on Tracks:
+### Different Tracks:
 1. **Application Development**
     - Baseline: Deploy &amp; Develop
     - Websites &amp; Web Applications
